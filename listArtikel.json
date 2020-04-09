@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1586417913406,
+      "title": "Salam ",
+      "body": "Epis Aku"
+    },
+    {
+      "userId": 1,
+      "id": 1586421484012,
+      "title": "Error",
+      "body": "\n\nPowershell scripts can be run on any Windows system as long as they are run from the ISE by pushing the green play button but as soon as you want to run it from the cmd or the desktop file you'll get hit by an error:\n\n    script1.ps1 cannot be loaded because running scripts is disabled on this system. For more information, see about_Execution_Policies at http://go.microsoft.com/fwlink/?LinkID=135170\n\nThis error happens due to a security measure which won't let scripts be executed on your system without you having approved of it. You can do so by opening up a powershell with administrative rights (search for powershell in the main menu and select Run as administrator from the context menu) and entering:"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
